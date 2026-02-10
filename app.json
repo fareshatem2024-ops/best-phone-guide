@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Best Phone Guide",
+    "slug": "best-phone-guide",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "com.fareshatem2024ops.bestphoneguide",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fareshatem2024ops.bestphoneguide",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
